@@ -7,7 +7,7 @@ class First extends Component {
   render() {
     return (
         <div className="First">
-          <h1>Hallllo</h1>
+          <h1>First</h1>
         </div>
     );
   }
